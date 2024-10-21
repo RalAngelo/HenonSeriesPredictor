@@ -7,9 +7,6 @@ This project is a Python application using **Tkinter** for the graphical user in
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Overview
 
